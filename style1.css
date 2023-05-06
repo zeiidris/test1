@@ -247,14 +247,14 @@ canvas{
     }
     .intro{
         height: calc(100vh - 50px);
-        padding: 35px;
+        padding: 25px 20px 35px;
         font-size: 30px;
         margin-top: 20px;
-        padding: 40 0 20px;
+
         margin-bottom: 5px;
     }
     .intro .para{
-        line-height: 45px;
+        line-height: 43px;
     }
     .intro p{
         font-size: 25px;
